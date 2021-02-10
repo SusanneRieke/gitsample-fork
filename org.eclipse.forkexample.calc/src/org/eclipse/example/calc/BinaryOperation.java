@@ -20,4 +20,5 @@ public interface BinaryOperation extends Operation {
 	 */ 
 	public float perform(float arg1, float arg2);
 	 // ein Kommentar von xgadsra
+	 // ein zweiter von xgadsra
 }
